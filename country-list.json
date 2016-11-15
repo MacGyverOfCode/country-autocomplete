@@ -59,7 +59,7 @@
     },
     {
       "shortnames": "BS",
-      "longname": "Bahamas"
+      "longname": "The Bahamas"
     },
     {
       "shortnames": "BH",
@@ -158,7 +158,7 @@
       "longname": "Cayman Islands"
     },
     {
-      "shortnames": "CF",
+      "shortnames": "CAR CF",
       "longname": "Central African Republic"
     },
     {
@@ -188,7 +188,7 @@
       "longname": "Comoros"
     },
     {
-      "shortnames": "CD",
+      "shortnames": "Zaire CD",
       "longname": "Democratic Republic of the Congo"
     },
     {
@@ -220,7 +220,7 @@
       "longname": "Cyprus"
     },
     {
-      "shortnames": "CZ",
+      "shortnames": "Czechia CZ",
       "longname": "Czech Republic"
     },
     {
@@ -317,7 +317,7 @@
       "longname": "Georgia"
     },
     {
-      "shortnames": "Bundesrepublik Deutschland DE",
+      "shortnames": "Deutschland DE",
       "longname": "Germany"
     },
     {
@@ -378,7 +378,7 @@
       "longname": "Heard Island & McDonald Islands"
     },
     {
-      "shortnames": "VA",
+      "shortnames": "VA Holy See",
       "longname": "Vatican City"
     },
     {
@@ -418,7 +418,7 @@
       "longname": "Iraq"
     },
     {
-      "shortnames": "IE",
+      "shortnames": "Eire, IE",
       "longname": "Ireland"
     },
     {
@@ -433,9 +433,8 @@
       "shortnames": "JM",
       "longname": "Jamaica"
     },
-    { "longname": "Jan Mayen" },
     {
-      "shortnames": "JP",
+      "shortnames": "Nippon JP",
       "longname": "Japan"
     },
     { "longname": "Jarvis Island" },
@@ -518,7 +517,7 @@
       "longname": "Macau"
     },
     {
-      "shortnames": "MK",
+      "shortnames": "MK FYROM Former Yugoslav Republic of",
       "longname": "Macedonia"
     },
     {
@@ -728,7 +727,7 @@
       "longname": "Saint Helena, Ascension & Tristan Da Cunha"
     },
     {
-      "shortnames": "St. St KN",
+      "shortnames": "St. St Christopher KN",
       "longname": "Saint Kitts & Nevis"
     },
     {
@@ -841,7 +840,7 @@
       "longname": "Syria"
     },
     {
-      "shortnames": "Republic of China TW",
+      "shortnames": "Republic of China Taipei TW",
       "longname": "Taiwan"
     },
     {
@@ -897,7 +896,7 @@
       "longname": "Ukraine"
     },
     {
-      "shortnames": "AE",
+      "shortnames": "Dubai Abu Dhabi UAE AE",
       "longname": "United Arab Emirates"
     },
     {
