@@ -1,31 +1,26 @@
 label {
 	display: block;
 }
-#country {
-	width: 350px;
-	border: 1px solid #ccc;
-	border-top-color: #777;
-	border-left-color: #777;
-	padding: 2px;
+.country-autocomplete {
 	position: relative;
 }
-.suggest {
+.country-autocomplete-suggest {
 	position: absolute;
 }
-.suggest ul {
+.country-autocomplete-suggest-list {
 	padding: 0;
 	margin: 0;
 	width: 356px;
 }
-.suggest li {
+.country-autocomplete-suggest-item {
 	list-style-type: none;
 	padding: 0;
 	padding: 5px;
 	cursor: pointer;
 	background: #eee;
 }
-.suggest li:hover,
-.suggest li.active {
+.country-autocomplete-suggest-item:hover,
+.country-autocomplete-suggest-item.active {
 	color: #fff;
 	background: #999;
 }
