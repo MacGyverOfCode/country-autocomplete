@@ -6,7 +6,6 @@ class CountryAutocomplete {
 		if (this.checkInput(input)) {
 			this.activeCountry = -1;
 			this.input = input;
-			this.activeCountry = 
 			this.countryList = [];
 			this.suggestedCountries = [];
 			this.loadCountryList();
