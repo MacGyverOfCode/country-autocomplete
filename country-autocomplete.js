@@ -111,8 +111,8 @@ class CountryAutocomplete {
 
 	searchCountries(input) {
 		this.suggestedCountries = [];
-		for (let country of this.countryList) {
-			if (input.value.length > 0) {
+		if (input.value.length > 0) {
+			for (let country of this.countryList) {
 				let inputValue = input.value.toLowerCase();
 				let longname = country.longname.toLowerCase();
 				let shortnames = null;
