@@ -77,15 +77,13 @@ class CountryAutocomplete {
 	}
 
 	highlightCountry() {
-		let index = 0;
 		let items = document.querySelectorAll('.country-autocomplete-suggest-item');
-		[ ...items ].forEach((item) => {
+		[ ...items ].forEach((item, index) => {
 			if (index === this.activeCountry) {
 				item.classList.add('active');
 			} else {
 				item.classList.remove('active');
 			};
-			index++;
 		});
 	}
 
